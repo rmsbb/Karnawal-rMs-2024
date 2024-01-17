@@ -447,7 +447,7 @@ main section h2 .highlight::after {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  margin-bottom: 2.5rem;
+  margin-bottom: 0.5rem;
 }
 .plan .transport li span {
   display: -webkit-box;
@@ -501,7 +501,7 @@ main section h2 .highlight::after {
   }
 }
 .items-to-take .comming-soon {
-  margin: 1rem 0;
+  margin: 0.5rem 0;
 }
 @media (min-width: 992px) {
   .items-to-take .comming-soon {
@@ -513,7 +513,7 @@ main section h2 .highlight::after {
 }
 @media (min-width: 992px) {
   .items-to-take .items {
-    margin-top: 2rem;
+    margin-top: 1rem;
   }
 }
 .items-to-take .items li {
@@ -526,12 +526,12 @@ main section h2 .highlight::after {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 @media (min-width: 992px) {
   .items-to-take .items li {
     font-size: 1.2rem;
-    margin-bottom: 0.7rem;
+    margin-bottom: 0.4rem;
   }
 }
 .items-to-take .items li small {

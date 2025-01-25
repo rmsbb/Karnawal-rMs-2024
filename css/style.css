@@ -22,13 +22,13 @@ body {
 }
 .header-title {
   margin-top: 1rem;
-  font-size: 3.3rem;
+  font-size: 2.5rem;
   line-height: 1.3;
   font-weight: 700;
 }
 @media (min-width: 992px) {
   .header-title {
-    font-size: 5rem;
+    font-size: 4rem;
   }
 }
 .header-description {
